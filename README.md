@@ -2,7 +2,7 @@
 
 Tools: Power BI | DAX | Power Query | Data Modeling
 
-# Data Source :  https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad
+## Data Source :  Education Analysis Link
 
 
 ## Project Summary
@@ -39,7 +39,7 @@ Applied dynamic filters and slicers (module, region, gender, education level, as
 
 ---
 
-# Key Insights Delivered
+## Key Insights Delivered
 
 Identified module-wise performance gaps and pass rate variations
 
@@ -55,7 +55,7 @@ Compared performance by education level, gender, and region
 
 ---
 
-# Business / Academic Value
+## Business / Academic Value
 
 Enables early identification of at-risk students
 
@@ -69,7 +69,7 @@ Provides leadership with a high-level executive snapshot of academic health
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 Data Cleaning & Transformation (Power Query)
 
@@ -85,6 +85,10 @@ Educational Data Analytics
 
 ---
 
-# Project Outcome
+## Project Outcome
 
 Delivered a scalable, insight-driven Power BI solution that converts complex educational datasets into clear, actionable intelligence for educators and academic stakeholders.
+
+## Conclusion
+
+This project showcases how interactive data analytics can deliver clear insights into student performance, engagement, and retention. By transforming complex educational data into an intuitive Power BI dashboard, it enables data-driven decision-making to improve learning outcomes and institutional effectiveness.
